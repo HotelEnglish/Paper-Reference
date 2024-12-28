@@ -6,8 +6,6 @@ flask-cors==3.0.10
 python-decouple==3.6
 openai>=1.0.0
 google-search-results==2.4.2
-langchain==0.1.0
-langchain-community==0.0.13
 urllib3==1.26.6
 chardet==4.0.0
 scholarly==1.7.0
