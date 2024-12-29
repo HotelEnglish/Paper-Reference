@@ -22,7 +22,7 @@
 1. 克隆仓库：
 ```bash
 git clone https://github.com/your-username/paper-assistant.git
-cd paper-assistant
+cd Paper-Reference
 ```
 
 2. 设置后端：
